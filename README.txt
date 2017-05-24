@@ -1,6 +1,6 @@
 LovEye features:
   
-  Fatigue detection
+  Real time fatigue detection
   Work in background
 
 Web app & Android app: 
